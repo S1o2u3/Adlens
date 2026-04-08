@@ -162,8 +162,8 @@ export default function App() {
               <div key={c} style={{ width: 10, height: 10, borderRadius: "50%", background: c }} />
             ))}
           </div>
-          <span style={{ fontSize: 16, fontWeight: 500 }}>AdInsight</span>
-          <span style={{ fontSize: 12, color: "#5f6368" }}>/ Campaign Intelligence</span>
+          <span style={{ fontSize: 16, fontWeight: 500 }}>Adlens</span>
+          <span style={{ fontSize: 12, color: "#5f6368" }}>/ AI Ad Intelligence</span>
         </div>
         <div style={{ width: 32, height: 32, borderRadius: "50%", background: "#E6F1FB", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 12, fontWeight: 500, color: "#0C447C" }}>SK</div>
       </div>
