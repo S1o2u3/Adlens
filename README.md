@@ -17,7 +17,7 @@
 
 ## What is Adlens?
 
-Adlens is a full-stack ad campaign intelligence dashboard that aggregates campaign data from multiple sources, detects underperforming campaigns in real time against industry benchmarks, and surfaces LLM-generated optimization recommendations — the same class of tooling Google's gTech Ads TAI team builds internally to support advertisers at scale.
+Adlens is a full-stack ad campaign intelligence dashboard that aggregates campaign data from multiple sources, detects underperforming campaigns in real time against industry benchmarks, and surfaces LLM-generated optimization recommendations the same class of tooling Google's gTech Ads TAI team builds internally to support advertisers at scale.
 
 ---
 
