@@ -111,7 +111,7 @@ Adlens is a full-stack ad campaign intelligence dashboard that aggregates campai
 
 ### Data Pipeline
 - Ingests and normalizes campaign data across **3 ad types** (search, display, video)
-- Covers **30 campaigns** across **16 industries**
+- Covers **10,000 campaigns** across **16 industries**
 - Aggregates metrics **by type** and **by industry** with benchmark delta comparison
 - Flags underperforming campaigns automatically (ROAS < 2x or CTR < 0.4%)
 
