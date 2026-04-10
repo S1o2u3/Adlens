@@ -1,4 +1,4 @@
-import { Campaign, mockCampaigns, industryBenchmarks } from "../data/mockData";
+import { Campaign, mockCampaigns, industryBenchmarks } from "../data/generatedCampaigns";
 
 export interface AggregatedStats {
   totalSpend: number;
