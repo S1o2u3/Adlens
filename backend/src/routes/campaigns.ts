@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { mockCampaigns } from "../data/mockData";
+import { mockCampaigns } from "../data/generatedCampaigns";
 import { aggregateCampaigns } from "../services/aggregator";
 
 const router = Router();
